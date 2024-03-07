@@ -1,4 +1,4 @@
-//    Pattern 1
+//    Pattern 01
 //
 //      *****
 //      *****
@@ -6,7 +6,7 @@
 //      *****
 //      *****
 
-public class Pattern_1
+public class Pattern_01
 {
     public static void main(String args[])
     {
